@@ -5,8 +5,7 @@ The project consists of a smiple kanban board that helps a user manage their tas
 
 ## Screenshots
 
-![App Screenshot](<img width="1321" height="553" alt="image" src="https://github.com/user-attachments/assets/dc5ea28c-af55-4239-889f-62d716061d9a" />
-)
+<img width="1352" height="529" alt="ScreenShot Tool -20260428152348" src="https://github.com/user-attachments/assets/c86d8f3a-b7ef-4f8c-a4e9-ad979900d980" />
 
 
 ## Features
